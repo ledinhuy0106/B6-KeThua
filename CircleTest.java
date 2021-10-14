@@ -1,7 +1,7 @@
 package Cicle;
 public class CircleTest {
     public static void main(String[] args) {
-        Circle2 C = new Circle2();
+        Cylinder C = new Cylinder();
         System.out.println(C);
     }
 }

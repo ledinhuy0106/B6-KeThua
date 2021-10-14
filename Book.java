@@ -1,4 +1,4 @@
-package Cg;
+
 import java.util.Scanner;
    public class Book {
        String Name;

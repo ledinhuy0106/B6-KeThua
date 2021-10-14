@@ -46,7 +46,7 @@ import java.util.Scanner;
          this.Author = author;
        }
    }
-public class Main {
+class Main {
     public static void main(String[] args) {
         Book[] listBook = new Book[10];
         input(listBook);
